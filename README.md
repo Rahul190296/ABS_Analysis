@@ -82,7 +82,7 @@ Performed using Python:
 
 ### 📌 Dashboard 1: Business Overview
 
-![Dashboard Overview](images/dashboard_overview.png)
+
 
 **Key Insights:**
 
@@ -95,7 +95,7 @@ Performed using Python:
 
 ### 📌 Dashboard 2: ABS Efficiency & Risk Analysis
 
-![ABS Efficiency](images/abs_efficiency.png)
+![ABS Efficiency](images/BI Dashbord 2.png)
 
 **Key Insights:**
 
